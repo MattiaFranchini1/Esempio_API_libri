@@ -1,0 +1,7 @@
+Requisiti necessari per questa applicazione:
+- nodejs installato sul dispositivo (seguire questa guida :) https://learn.microsoft.com/it-it/windows/dev-environment/javascript/nodejs-on-windows)
+
+Per avviare l'applicazione, cliccare su avvio.bat
+Una volta lanciato, questo script farà:
+  - Si sposta nella cartella backend, installa i pacchetti e lancia il server backend (nodejs)
+  - Si sposta nella cartella frontend, installa i pacchetti e lancia il server frontend (vite + react + react-bootstrap)
